@@ -19,7 +19,7 @@
 
 ## 📁 文件结构
 - `user_behavior_analysis.ipynb`：完整分析过程与代码
-- `images/`：图表截图（可选）
+- `images/`：图表截图
 - `README.md`：项目说明文档
 - `user_behavior`:10万条电商数据，原数据一亿条，如有需要可电邮我
 
